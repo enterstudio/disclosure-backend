@@ -1,4 +1,4 @@
-Django==1.8.1
+Django==1.11.29
 -e git://github.com/caciviclab/django-calaccess-raw-data.git#egg=django-calaccess-raw-data
 mysqlclient
 Pillow==3.0.0
